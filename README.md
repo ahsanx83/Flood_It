@@ -10,9 +10,9 @@ Solution of the game board is generated using **A Star Search algorithm and heur
 
 # Flood\_It Game Board
 
-!\[alt text](https://raw.githubusercontent.com/ahsanx83/Flood_It/refs/heads/main/Screenshots/game_board_1.PNG)
-!\[alt text](https://github.com/ahsanx83/Flood_It/blob/main/Screenshots/game_board_2.PNG)
+![alt text](https://github.com/ahsanx83/Flood_It/blob/main/Screenshots/game_board_1.PNG)
+![alt text](https://github.com/ahsanx83/Flood_It/blob/main/Screenshots/game_board_2.PNG)
 
 # Flood\_It Solution
 
-!\[alt text](https://github.com/ahsanx83/Flood_It/blob/main/Screenshots/game_board_3.PNG)
+![alt text](https://github.com/ahsanx83/Flood_It/blob/main/Screenshots/game_board_3.PNG)
